@@ -1,3 +1,4 @@
+// radar-2: category-calibrated valuation model
 // The token radar's model: one snapshot of the protocol universe in, one ranked board out.
 //
 // The board covers every slug in the snapshot's watchlist (the floor, never a ceiling) and may add

@@ -1,3 +1,4 @@
+// Token Radar entrypoint
 // This program reads a DefiLlama protocol snapshot, scores every pre-token protocol
 // with the valuation model in lib/model.ts, and writes board.json, data.js, the
 // dashboard, screenshots and dossier.json to the output directory.
