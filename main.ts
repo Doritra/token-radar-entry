@@ -100,3 +100,5 @@ process.stdout.write(
 // Exit successfully.
 
 // Done.
+
+// EOF
