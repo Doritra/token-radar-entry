@@ -96,3 +96,5 @@ process.stdout.write(
 );
 
 // Program complete.
+
+// Exit successfully.
